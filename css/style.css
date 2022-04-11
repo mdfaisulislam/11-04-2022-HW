@@ -97,6 +97,7 @@ label{
 }
 table{
     width: 100%;
+    border-collapse: collapse;
     border: 2px solid white;
 }
 th, td{
