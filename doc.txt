@@ -1,0 +1,91 @@
+web design-
+responsive website design
+
+{html-
+      create website structure,
+css-
+    website style,
+bootstrap-
+          website responsive,
+js-
+   website behaviour improvement,
+jq-
+   website behaviour improvement} language need for website design
+
+---------------------------------------------------------------------------
+
+html-
+    image/ psd/ AI/ Figma/ xd/ url/ web/ text/ doc/ pdf/ sketch/ blueprint/ layout to html
+
+    image to html -
+    ===============
+
+    page size - 1350
+    ----------------
+    Section define - 5
+
+    Layout define-
+    
+    Code comment- <!-- -->
+    
+    Semantic markup-
+    
+    Common pattern....
+    
+    Resuable block help me in css,html
+
+    Css code reprtation avoid  need for me
+
+    Css code higherity maintain - First width
+                                  height
+                                  -----------
+                                  font-family
+                                  font-size
+                                  font-weight
+                                  color
+                                  -----------
+                                  margin{
+                                  margin-top
+                                  margin-bottom
+                                  margin-left
+                                  margin-right}
+                                  padding
+ Search Engine Optimization-
+
+                meta
+                image-name, tag, alt
+                h1-h2
+                strong
+                em
+
+cross browser support
+
+speed optimization-
+        
+        image
+        audio
+        video
+        font-file 2/3
+
+pixel perfect
+
+user interface(ui)
+
+ux-user experience
+
+markup validation
+error free or bug free
+
+semantic markup-
+              <nav>--</nav>  used for menu 
+
+page-
+     multi-page
+     single-page
+
+pixie for color code
+
+color-
+     sky-blue  #008aff
+     nave-blue #0f2656
+     
